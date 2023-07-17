@@ -1,0 +1,11 @@
+#Byte - complied / DLL files
+__pycache__/
+
+#Environments
+.venv
+venv/
+eshop-venv/
+
+# Flask stuff:
+instance/
+.webassets-cache

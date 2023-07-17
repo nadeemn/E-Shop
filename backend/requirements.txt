@@ -1,0 +1,9 @@
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow-sqlalchemy
+Flask-Cors
+mysqlclient
+Flask-JWT-Extended
+Flask-Bcrypt
